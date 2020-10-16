@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47430b55-f517-4414-99ef-271ba0741229" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="app" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="yaml" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +63,7 @@
       <updated>1602798330525</updated>
       <workItem from="1602798332179" duration="138000" />
       <workItem from="1602798484816" duration="730000" />
-      <workItem from="1602859452888" duration="8485000" />
+      <workItem from="1602859452888" duration="18404000" />
     </task>
     <servers />
   </component>
@@ -59,6 +71,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="723" y="-758" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602888915047">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="723" y="-758" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-474.1050.1640/0.-1080.1920.1040/-1920.-490.1920.1040@0.-1080.1920.1040" timestamp="1602888915047" />
+    <state x="856" y="-874" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1602888915165">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="856" y="-874" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/1920.-474.1050.1640/0.-1080.1920.1040/-1920.-490.1920.1040@0.-1080.1920.1040" timestamp="1602888915165" />
     <state x="749" y="251" key="FileChooserDialogImpl" timestamp="1602798400462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
